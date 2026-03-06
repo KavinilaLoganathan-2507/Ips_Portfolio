@@ -194,7 +194,7 @@ const communityMembers = [
   {
     name: "Kavinila",
     role: "Developer",
-    specialty: "Emotional support",
+    specialty: "Full-Stack Developer ",
     imageUrl: Nila,
     badges: [Black],
     github: "https://github.com/KavinilaLoganathan-2507",
@@ -321,7 +321,7 @@ const communityMembers = [
   {
     name: "Jaisrinivasan J",
     role: "Developer",
-    specialty: "Ai Engineer", 
+    specialty: "AI Engineer", 
     imageUrl: Jaisreenivasan,
     badges: [White],
     github: "https://github.com/jaisrinivasan23",
